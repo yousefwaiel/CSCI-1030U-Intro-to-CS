@@ -1,6 +1,6 @@
 # CSCI 1030U - Introduction to Computer Science
 
-Welcome to my CSCI 1030U repository! This repository is dedicated to sharing my progress in the course "CSCI 1030U - Introduction to Computer Science." Here, you will find my solutions to various exercises, helpful tips, and resources related to the course. 
+Welcome to my CSCI-1030U-Intro-to-CS repository! This repository is dedicated to sharing my progress in the course "CSCI 1030U - Introduction to Computer Science" at Ontario Tech University Fall 2023. Here, you will find my solutions to various exercises, helpful tips, and resources related to the course. 
 
 ## Purpose
 This repository has been created with a few key objectives in mind:
