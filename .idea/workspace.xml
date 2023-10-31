@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2411567c-8c86-430e-82bd-67c273788e23" name="Changes" comment="" />
+    <list default="true" id="2411567c-8c86-430e-82bd-67c273788e23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Programming Challenge 05b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Programming Exercise 05a.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Programming Exercise 05b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Programming Exercise 05b.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Programming Exercise 06a.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,19 +30,87 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2XUL1gNDyZZTp7fpwsKWxnYvLCF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Programming Exercise 05a.1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CSCI-1030U-Intro-to-CS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Programming Exercise 05a.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Programming Exercise 06a.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSCI-1030U-Intro-to-CS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Programming Exercise 06a.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Programming Exercise 05a.1" />
+      <item itemvalue="Python.Programming Exercise 06a.1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Programming Exercise 06a.1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +121,8 @@
       <updated>1698678498458</updated>
       <workItem from="1698678500983" duration="15000" />
       <workItem from="1698716137276" duration="9000" />
+      <workItem from="1698764727527" duration="4339000" />
+      <workItem from="1698785682926" duration="244000" />
     </task>
     <servers />
   </component>
@@ -43,6 +130,12 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05a_1.coverage" NAME="Programming Exercise 05a.1 Coverage Results" MODIFIED="1698716142881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05b_1.coverage" NAME="Programming Exercise 05b.1 Coverage Results" MODIFIED="1698765875035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_06a_1.coverage" NAME="Programming Exercise 06a.1 Coverage Results" MODIFIED="1698785823157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05b_2.coverage" NAME="Programming Exercise 05b.2 Coverage Results" MODIFIED="1698766294753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05a_2.coverage" NAME="Programming Exercise 05a.2 Coverage Results" MODIFIED="1698765824680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Challenge_05b_1.coverage" NAME="Programming Challenge 05b.1 Coverage Results" MODIFIED="1698766016327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Challenge_05b_1__2_.coverage" NAME="Programming Challenge 05b.1 (2) Coverage Results" MODIFIED="1698766086946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05a_1.coverage" NAME="Programming Exercise 05a.1 Coverage Results" MODIFIED="1698785848299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
   </component>
 </project>
