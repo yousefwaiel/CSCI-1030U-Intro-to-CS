@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2411567c-8c86-430e-82bd-67c273788e23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Practice Question 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Practice Question 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Practice Question 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Practice Question 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Practice Question 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Challenge 03a.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Challenge 03b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Challenge 04a.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Exercise 03a.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Exercise 03b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Exercise 03b.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Exercise 04a.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Coding Exercise 04b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Challenge 01b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Challenge 02a.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Challenge 02b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Exercise 01b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Exercise 01b.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Exercise 02a.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Exercise 02b.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Exercise 02b.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Review Coding Exercise 04a.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +38,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="628dfb20-58df-4740-9051-bac9144ec7dc" />
+        <option name="url" value="https://github.com/yousefwaiel/CSCI-1030U-Intro-to-CS.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,6 +81,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
       <recent name="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
     </key>
   </component>
@@ -99,6 +124,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2/Practice Question 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Programming Challenge 01b.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSCI-1030U-Intro-to-CS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam/Programming Challenge 01b.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,10 +202,12 @@
       <item itemvalue="Python.Practice Question 1" />
       <item itemvalue="Python.Practice Question 2" />
       <item itemvalue="Python.Programming Exercise 05a.1" />
+      <item itemvalue="Python.Programming Challenge 01b.1" />
       <item itemvalue="Python.Programming Exercise 06a.1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Programming Challenge 01b.1" />
         <item itemvalue="Python.Programming Exercise 06a.1" />
       </list>
     </recent_temporary>
@@ -179,6 +228,7 @@
       <workItem from="1698854502039" duration="1380000" />
       <workItem from="1698922000776" duration="1280000" />
       <workItem from="1698923300984" duration="2055000" />
+      <workItem from="1701125798870" duration="7556000" />
     </task>
     <servers />
   </component>
@@ -186,19 +236,34 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Challenge_03a_1.coverage" NAME="Coding Challenge 03a.1 Coverage Results" MODIFIED="1701186649927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Review_Coding_Exercise_04a_1.coverage" NAME="Review Coding Exercise 04a.1 Coverage Results" MODIFIED="1701189869948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Challenge_04a_1.coverage" NAME="Coding Challenge 04a.1 Coverage Results" MODIFIED="1701190506230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Challenge_05b_1__2_.coverage" NAME="Programming Challenge 05b.1 (2) Coverage Results" MODIFIED="1698766086946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
-    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Practice_Question_6.coverage" NAME="Practice Question 6 Coverage Results" MODIFIED="1698924763568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
-    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_06a_1.coverage" NAME="Programming Exercise 06a.1 Coverage Results" MODIFIED="1698854741442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05a_2.coverage" NAME="Programming Exercise 05a.2 Coverage Results" MODIFIED="1698765824680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Practice_Question_2.coverage" NAME="Practice Question 2 Coverage Results" MODIFIED="1698923015586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
-    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05b_2.coverage" NAME="Programming Exercise 05b.2 Coverage Results" MODIFIED="1698766294753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Challenge_05b_1.coverage" NAME="Programming Challenge 05b.1 Coverage Results" MODIFIED="1698766016327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
-    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05a_1.coverage" NAME="Programming Exercise 05a.1 Coverage Results" MODIFIED="1698785848299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
-    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_06b_2.coverage" NAME="Programming Exercise 06b.2 Coverage Results" MODIFIED="1698855585237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Exercise_04a_2.coverage" NAME="Coding Exercise 04a.2 Coverage Results" MODIFIED="1701190218398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Practice_Question_1.coverage" NAME="Practice Question 1 Coverage Results" MODIFIED="1698923440477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
-    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Practice_Question_3.coverage" NAME="Practice Question 3 Coverage Results" MODIFIED="1698923471125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Challenge_02b_1.coverage" NAME="Programming Challenge 02b.1 Coverage Results" MODIFIED="1701127294221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05b_1.coverage" NAME="Programming Exercise 05b.1 Coverage Results" MODIFIED="1698765875035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_06b_1.coverage" NAME="Programming Exercise 06b.1 Coverage Results" MODIFIED="1698855157222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Challenge_03b_1.coverage" NAME="Coding Challenge 03b.1 Coverage Results" MODIFIED="1701188897367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
     <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Practice_Question_4.coverage" NAME="Practice Question 4 Coverage Results" MODIFIED="1698924247612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Exercise_03a_1.coverage" NAME="Coding Exercise 03a.1 Coverage Results" MODIFIED="1701186383566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_02b_1.coverage" NAME="Programming Exercise 02b.1 Coverage Results" MODIFIED="1701127014799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Challenge_02a_1.coverage" NAME="Programming Challenge 02a.1 Coverage Results" MODIFIED="1701125901397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Exercise_03b_2.coverage" NAME="Coding Exercise 03b.2 Coverage Results" MODIFIED="1701188706053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Practice_Question_6.coverage" NAME="Practice Question 6 Coverage Results" MODIFIED="1701125886699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_06a_1.coverage" NAME="Programming Exercise 06a.1 Coverage Results" MODIFIED="1698854741442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Challenge_01b_1.coverage" NAME="Programming Challenge 01b.1 Coverage Results" MODIFIED="1701125951204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05b_2.coverage" NAME="Programming Exercise 05b.2 Coverage Results" MODIFIED="1698766294753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_05a_1.coverage" NAME="Programming Exercise 05a.1 Coverage Results" MODIFIED="1698785848299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_06b_2.coverage" NAME="Programming Exercise 06b.2 Coverage Results" MODIFIED="1698855585237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Programming_Exercise_02b_2.coverage" NAME="Programming Exercise 02b.2 Coverage Results" MODIFIED="1701127150727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$test.coverage" NAME="test Coverage Results" MODIFIED="1701125954512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Practice_Question_3.coverage" NAME="Practice Question 3 Coverage Results" MODIFIED="1698923471125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Test_2" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Exercise_04b_1.coverage" NAME="Coding Exercise 04b.1 Coverage Results" MODIFIED="1701190744274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
+    <SUITE FILE_PATH="coverage/CSCI_1030U_Intro_to_CS$Coding_Exercise_03b_1.coverage" NAME="Coding Exercise 03b.1 Coverage Results" MODIFIED="1701188345007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro_to_CS_Practice_Final_Exam" />
   </component>
 </project>
